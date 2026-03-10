@@ -1,0 +1,49 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env
+.venv/
+
+# Jupyter notebooks
+.ipynb_checkpoints/
+
+# Dataset
+dataset/
+data/
+
+# Model weights
+*.pt
+*.pth
+*.h5
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE settings
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Build files
+build/
+dist/
+
+# Uploaded images
+uploads/
+
+# Environment variables
+.env
+
+# Node modules (if frontend uses npm later)
+node_modules/
